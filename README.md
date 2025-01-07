@@ -4,10 +4,13 @@ Description-
 This Python project automates the process of reading email attachments, extracting key details such as receipt number, vendor name, date, and total, and then sends a notification email to the finance team summarizing the extracted details.
 
 Features-
+Downloads attachments from the email.
 Extracts key details from email attachments automatically.
 Supports receipt data such as: Receipt Number, Vendor Name, Date, Total Amount
-Sends a summary email to the finance team.
-Improves efficiency in processing financial documents.
+Adds the extracted receipt data into excel file.
+Fills the Google form with extracted receipt data.
+Sends a notification and a summary email of extracted data to the finance team.
+
 
 Prerequisites-
 Python 3.6.x-3.9.x
