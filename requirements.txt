@@ -1,0 +1,10 @@
+pip install openpyxl
+pip install playwright
+playwright install  #For browser binaries
+pip install scikit-image
+pip install paddlepaddle
+pip install paddleocr
+pip install pymupdf
+pip install numpy
+pip install pandas
+
