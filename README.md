@@ -20,7 +20,7 @@ Required libraries (listed in requirements.txt)
 How It Works-
 Accesses the email inbox using IMAP.
 Downloads and processes attachments (e.g., PDFs or images).
-Extracts key information using libraries like PyPDF2 and PaddleOCR.
+Extracts key information using libraries like PymuPDF and PaddleOCR.
 Saves the extracted details in an excel file.
 
 Known Issues-
