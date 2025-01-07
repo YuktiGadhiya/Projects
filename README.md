@@ -1,4 +1,4 @@
-Email Attachment Processor
+Data Entry of Fuel Receipts
 
 Description-
 This Python project automates the process of reading email attachments, extracting key details such as receipt number, vendor name, date, and total, and then sends a notification email to the finance team summarizing the extracted details.
